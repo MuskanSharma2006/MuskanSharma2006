@@ -5,14 +5,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;AI-ML+Enthusiast;IoT+Systems+Developer;Problem+Solver;Always+Learning&font=Fira+Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=BCA+Student;Programming+Enthusiast;Problem+Solver;Always+Learning&font=Fira+Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-<h3 align="center">💻 Aspiring Software Engineer | Full-Stack Developer | AI/ML and IoT Explorer</h3>
+<h3 align="center">💻 BCA Student | Programming Enthusiast | Tech Explorer</h3>
 
 ---
 
@@ -23,19 +23,19 @@
 ## 💼 Professional Summary
 
 ```yaml
-Role: Aspiring Full Stack Developer & AI/ML Engineer
-Education: B.Tech CSE (AI & ML) | GEHU (2023-2027)
-Focus: Designing & Building Scalable Applications
-Specialization: MERN Stack | AI/ML | IoT
-Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
+Role: BCA Student & Programming Enthusiast
+Education: Bachelor of Computer Applications (BCA)
+Focus: Learning Programming & Software Development
+Specialization: Web Development | Programming Languages
+Expertise: Python, Java, JavaScript, Web Technologies
 ```
 
-**🎯 What I Bring:**
-- ✅ Full-stack development (Frontend + Backend + AI/ML)
-- ✅ Scalable architecture & database optimization
-- ✅ ML Model Deployment & Production Integration
-- ✅ National hackathon winner & problem solver
-- ✅ Open-source contributor
+**🎯 What I'm Learning:**
+- ✅ Web development (Frontend + Backend)
+- ✅ Programming fundamentals & problem solving
+- ✅ Database concepts & management
+- ✅ Software development practices
+- ✅ Open-source contribution
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuskanSharma2006&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" alt="Contribution Activity Graph" width="95%">
@@ -56,21 +56,11 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
   <a href="mailto:muskansharma@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=FF6B6B" alt="Email" />
   </a>
-  <a href="https://portfolio-muskan.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=4ECDC4" alt="Portfolio" />
-  </a>
-  <a href="https://muskandev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=6A0DAD" alt="Website" />
-  </a>
+
   <a href="https://www.linkedin.com/in/muskan-sharma2006/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=45B7D1" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/MuskanSharma2006/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&color=F39C12" alt="LeetCode" />
-  </a>
-  <a href="https://linktr.ee/MuskanDev.io" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&labelColor=39E09B&color=2ECC71" alt="Linktree" />
-  </a>
+
 </p>
 
 <div align="center">
@@ -128,12 +118,7 @@ Expertise: Python, Java, JavaScript, Cloud, ML Pipelines
 
 ---
 
-## 📊 LeetCode Stats:
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/MuskanSharma2006?theme=dark" alt="LeetCode Stats" />
-</div>
 
----
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
